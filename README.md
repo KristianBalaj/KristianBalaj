@@ -1,6 +1,7 @@
 <h1 align="center">Hi there devs, I'm Kristián 🙌</h1>
 
 - 🔭 I’m currently working on [**Admin app for shop delivery in Flutter**](https://github.com/cloudis-dev/bottleshop_admin)
+
 - 🌱 I’m currently learning **Haskell**, **Scala** & **Flutter**
 
 ![Kristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristianBalaj&count_private=true)
