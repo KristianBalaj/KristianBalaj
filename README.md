@@ -1,9 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi there devs, I'm Kristián 🙌</h1>
+
+- 🔭 I’m currently working on [**Admin app for shop delivery in Flutter**](https://github.com/cloudis-dev/bottleshop_admin)
+- 🌱 I’m currently learning **Haskell**, **Scala** & **Flutter**
 
 ![Kristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristianBalaj&count_private=true)
-
-<a href="https://twitter.com/KristianBalaj" class="twitter-follow-button" data-show-count="false">Follow @KristianBalaj</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        
 
 <!--
 **KristianBalaj/KristianBalaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
