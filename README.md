@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Haskell**, **Scala** & **Flutter**
 
-![Kristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristianBalaj&count_private=true)
+<!--![Kristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristianBalaj&count_private=true)-->
 
 <!--
 **KristianBalaj/KristianBalaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
