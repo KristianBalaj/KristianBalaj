@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **Haskell**, **Scala** & **Flutter**
 
+<a href="https://twitter.com/KristianBalaj" target="blank"><img unselectable="on" alt="Twitter URL" src="https://img.shields.io/twitter/url?color=%231DA1F2&label=%40KristianBalaj&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FKristianBalaj"></a>
+
 <!--![Kristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristianBalaj&count_private=true)-->
 
 <!--
