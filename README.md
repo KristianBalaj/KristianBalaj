@@ -2,9 +2,15 @@
 
 - 🔭 I’m currently working on [**Admin app for shop delivery in Flutter**](https://github.com/cloudis-dev/bottleshop_admin)
 
-- 🌱 I’m currently learning **Haskell**, **Scala** & **Flutter**
+- 🌱 I’m currently learning <img alt="Kristian's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/haskell.svg" /> **Haskell**, <img alt="Kristian's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scala.svg" /> **Scala** & <img alt="Kristian's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" /> **Flutter**
 
-<a href="https://twitter.com/KristianBalaj" target="blank"><img unselectable="on" alt="Twitter URL" src="https://img.shields.io/twitter/url?color=%231DA1F2&label=%40KristianBalaj&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FKristianBalaj"></a>
+### Get in touch:
+<!--https://github.com/simple-icons/simple-icons-->
+[<img align="left" alt="Kristian's Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Kristian's | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/KristianBalaj
+[linkedin]: https://www.linkedin.com/in/kristi%C3%A1n-balaj-254519142/
 
 <!--![Kristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristianBalaj&count_private=true)-->
 
