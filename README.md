@@ -9,7 +9,7 @@
 
 
 [twitter]: https://twitter.com/KristianBalaj
-[linkedin]: https://www.linkedin.com/in/kristi%C3%A1n-balaj-254519142/
+[linkedin]: https://www.linkedin.com/in/kristian-balaj/
 
 <!--![Kristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristianBalaj&count_private=true)-->
 
