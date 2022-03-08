@@ -1,11 +1,19 @@
-<h1 align="center">Hi there devs 🙌, I'm Kristián</h1>
+<h1 align="center">Hi there 🙌 I'm Kristián</h1>
 
-- 🌱 I’m currently learning <img alt="Kristian's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/haskell.svg" /> **Haskell** & <img alt="Kristian's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" /> **Flutter**
+## ⬆ What I'm up to
+- 🌱 I’m currently learning **Haskell** & **Flutter**
+<!-- - 🌱 I’m currently learning <img alt="Kristian's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/haskell.svg" /> **Haskell** & <img alt="Kristian's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" /> **Flutter** -->
 
-### Get in touch:
+## 📫 Where to find me
 <!--https://github.com/simple-icons/simple-icons-->
-[<img align="left" alt="Kristian's Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kristian's | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- [<img align="left" alt="Kristian's Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img style="fill: #FFF;" align="left" alt="Kristian's | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+
+- [Twitter][twitter]
+- [Linkedin][linkedin]
+
+
+
 
 
 [twitter]: https://twitter.com/KristianBalaj
